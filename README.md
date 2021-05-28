@@ -29,3 +29,10 @@ Sopa de letras
     √ prueba 0x0 => Se espera 0
 ```
 Los test's se pueden verificar en la ruta ./soup/test/*
+
+## Build
+Si se desea se puede generar una carpeta dist con entregables en javascript, para ello ejecutar
+
+```bash
+npm run build
+```
